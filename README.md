@@ -1,1 +1,1 @@
-I taught Excel physics, OpenGL, and AI. I’m not sure why.
+I'm building an agent using Power Query in Excel.
